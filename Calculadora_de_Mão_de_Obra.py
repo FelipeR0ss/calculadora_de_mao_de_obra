@@ -9,8 +9,6 @@ mao_de_obra = {
 }
 
 mao_de_obra_digitada = str(input("Escolha a mão de obra desejada: "))
-# valor_mao_de_obra = float(input('Insira o valor da mão de obra: '))
-# encargos = float(input('insira o valor dos encargos sociais em números decimais: '))
 
 valor_mao_de_obra = mao_de_obra.get(mao_de_obra_digitada, None)
 
