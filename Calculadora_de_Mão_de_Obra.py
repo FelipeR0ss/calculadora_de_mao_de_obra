@@ -44,6 +44,6 @@ v1 = float(input("Insira o valor da mão de obra: "))
 v2 = float(input("Insira o valor do encargo: "))
 v3 = v1 / v2
 if v3 >= valor_mao_de_obra:
-    print(f"O valor da mão de obra é R${v3}. Acima da tabela do sindicato!")
+    print(f"O valor da hora trabalha para {mao_de_obra_digitada} é R${v3:.2f}. Acima da tabela do sindicato!")
 else:
-    print(f"O valor da mão de obra é R${v3}. Abaixo da tabela do sindicato!")
+    print(f"O valor da hora trabalha para {mao_de_obra_digitada} é R${v3:.2f}. Abaixo da tabela do sindicato!")
