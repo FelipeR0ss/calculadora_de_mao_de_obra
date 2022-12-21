@@ -1,10 +1,34 @@
 mao_de_obra = {
-    "OFICIAL": 8.59,
-    "MEIOS_OFICIAIS": 6.45,
+   "PEDREIRO": 8.59,
+    "CARPINTEIRO": 8.59,
+    "ARMADOR": 8.59,
+    "SOLDADOR": 8.59,
+    "ELETRICISTA": 8.59,
+    "ENCANADOR": 8.59,
+    "VIDRACEIRO": 8.59,
+    "MONTADOR": 8.59,
+    "TOPOGRAFO": 8.59,
+    "ASSENTADOR": 8.59, # Assentador de tubos
+    "NIVELADOR": 8.59,
+    "DESENHISTA": 8.59,
+    "ALMOXARIFE": 8.59,
+    "JARDINEIRO": 8.59,
+    "PINTOR": 8.59,
+    "SERRALHEIRO": 8.59,
+    "AJUDANTES": 6.45, # Ajudante Especializado
+    "OPERADORB": 6.45, # Operador de Betoneira
+    "SERVENTEH": 6.45, # Servente Habilitado
     "AJUDANTE": 6.22,
-    "OPERADOR": 9.52,  # Operador de máquina pesada
-    "MOTORISTA": 9.55,  # Motorista basculante geral
-    "VIGIA": 6.22,
+    "SERVENTE": 6.22,
+    "OPERADOR1": 9.52,  # Operador de Pá Carregadeira
+    "OPERADOR2": 9.52,  # Operador de Trator de Esteira ou Lâmina
+    "OPERADOR3": 9.52,  # Operador de Retroescavadeira
+    "OPERADOR4": 9.52,  # Operador Geral
+    "MOTORISTA1": 9.55,  # Motorista Basculante
+    "MOTORISTA2": 9.55,  # Motorista Geral
+    "ENCARREGADO": 10.0, # Encarregado Geral
+    "MESTRE": 10.0, # Mestre de Obras
+    "VIGIA": 6.22, # Vigia Noturno
     "ENGENHEIRO": 36.36,
 }
 
